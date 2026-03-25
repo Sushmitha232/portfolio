@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "name": "Sushmitha R",
+    "title": "Aspiring Software Engineer",
+    "tagline": "Passionate about AI, Web Development, and Secure Systems",
+    "bio": "A passionate and quick-learning graduate driven by curiosity and purpose. Eager to build impactful solutions and grow in the tech industry.",
+    "currentRole": "Computer Science Engineering Student",
+    "currentRoleDescription": "Pursuing BE in CSE with a focus on AI, web development, and secure systems.",
+    "email": "sushmitha748313@gmail.com",
+    "location": "Bengaluru, Karnataka, India"
+  },
+
+  "about": {
+    "title": "About",
+    "sections": [
+      "I am a Computer Science Engineering student with a CGPA of 9.0 and a strong passion for building real-world applications.",
+      "I have experience in AI, web development, blockchain, and secure system design.",
+      "I enjoy solving problems, learning new technologies, and developing impactful projects."
+    ]
+  },
+
+  "experience": [
+    {
+      "period": "2022 - Present",
+      "title": "Student Developer",
+      "company": "Sri Venkateshwara College of Engineering",
+      "description": "Worked on multiple academic and personal projects including AI chatbot, voting systems, and full-stack applications.",
+      "skills": ["Java", "Python", "React", "Node.js", "MongoDB"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Bail Reckoner",
+      "description": "A full-stack web application using React, Node.js, MongoDB, and JWT authentication to calculate bail amounts based on crime and risk factors.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["React", "Node.js", "MongoDB", "JWT"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Decentralized Voting System",
+      "description": "Blockchain-based voting system ensuring transparency, security, and tamper-proof elections.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["Blockchain", "Security"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "AI Chatbot for Classroom Monitoring",
+      "description": "AI chatbot that automates classroom tasks like attendance and student query handling.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["AI", "Python"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Voting Management System",
+      "description": "Secure web application with authentication ensuring accurate and fraud-free voting.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["Web Development", "Security"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "RSA Algorithm for Voting System",
+      "description": "Implemented RSA encryption to ensure confidentiality and integrity in voting systems.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["Cryptography", "Security"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Heart Disease Prediction Model",
+      "description": "Machine learning model using decision trees and KNN to predict heart disease risk.",
+      "image": "https://via.placeholder.com/400",
+      "tags": ["Machine Learning", "Python"],
+      "link": "https://github.com/Sushmitha232",
+      "featured": false
+    }
+  ],
+
+  "skills": [
+    {
+      "category": "Programming",
+      "items": ["Java", "Python"]
+    },
+    {
+      "category": "Web Development",
+      "items": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+    },
+    {
+      "category": "Backend & Database",
+      "items": ["Node.js", "MongoDB", "SQL"]
+    },
+    {
+      "category": "Core Skills",
+      "items": [
+        "Problem Solving",
+        "Logical Thinking",
+        "Communication",
+        "Time Management"
+      ]
+    }
+  ],
+
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Sushmitha232",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/sushmitha-r-30a2752",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:sushmitha748313@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}
